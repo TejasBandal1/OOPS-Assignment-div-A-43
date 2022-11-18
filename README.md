@@ -9,10 +9,18 @@ PRN - 1132220248
 ROLL NO 43
 
 .............
-ASSIGNMENT Q 1
+ASSIGNMENT QUESTION 1
 
 
 ![](employee%20ass%201.png)
 
+ASSIGNMENT QUESTION 2
+
 
 ![](assignment%20ass2.png)
+
+
+ASSIGNMENT QUESTION 3
+
+
+![](list%20of%20names%20ass%203.png)
